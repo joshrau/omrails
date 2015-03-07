@@ -2,6 +2,8 @@
 
 This is a small edit for testing
 
+One month Rails. This is the sample application for One Month Rails to teach yourself to code.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
